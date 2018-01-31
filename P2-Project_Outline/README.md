@@ -1,24 +1,28 @@
-# Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
+Overview:
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
+I used to work in retail and it was always annoying when the POS shut down because we had to write everything by hand. When I worked supporting POS systems I worked with managers constantly complained about not having a backup. I want to make a simple POS(Point Of Sale) app that is easy to edit. It should have a front end
+Features:
 
-## Submission Instructions
+1 User Login
+	Users will be able to create accounts and have sub accounts beneath them.
+2 User Specific items
+             Items will be tied to user.
+3 Reporting
+             Creates reports of orders made in a given period.
+4 Dual interface
+             Allows front of house to create orders on one page and back of house to view and close orders on a second page
+             	
 
-### Overview
-Include overview here
-### Features
-Include Features here
-### Technologies
-Include Technologies here
-
-### What I'll Have to Learn
-Include what you will need to learn here
+Technologies:
+JAVA
+Thymeleaf
+Springboot
+Mysql
+MAMP
+I want to use the google pay API to allow payments integration. 
 
 
 https://www.pivotaltracker.com/n/projects/2143899
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![Image of POS](https://github.com/Dmatney/liftoff-assignments/blob/master/POS.jpg)
 ![Image of Edit Page](https://github.com/Dmatney/liftoff-assignments/blob/master/edit.jpg)
 ![Image of Report page](https://github.com/Dmatney/liftoff-assignments/blob/master/report.jpg)
