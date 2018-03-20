@@ -21,6 +21,13 @@ Mysql
 MAMP
 I want to use the google pay API to allow payments integration. 
 
+User stories
+
+As a boy scout I want to be able to select an item and have it added  to the total price because doing it by hand is slow and inaccurate.
+
+I own a small store and I need the report function to tell me how many of each item was ordered and sales because I need to know what to stock.
+
+As a fast food franchisee I need a backup POS that I can save items and prices to for when the registers go down.
 
 https://www.pivotaltracker.com/n/projects/2143899
 ![Image of POS](https://github.com/Dmatney/liftoff-assignments/blob/master/POS.jpg)
